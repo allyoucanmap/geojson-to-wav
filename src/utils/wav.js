@@ -1,4 +1,4 @@
-// reference for the make wave from geometry
+// reference geometry to wave from
 // https://neil.fraser.name/news/2018/01/25/
 
 function numToShort(num) {
